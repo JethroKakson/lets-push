@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+ul li a {
+    display: inline;
+}
+ul li {
+    display: inline;
+    background: red;
+    /* margin-left: 30px; */
+    margin-top: 10px; 
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 50%;
+}
